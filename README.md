@@ -3,6 +3,16 @@
 
 token free unlimited use of deepl, according to the web version of JavaScript encryption algorithm developed services; So as long as the official website algorithm should not, theoretically can be unlimited use
 
+
+注意: macos由于对软件限制较⼤，对未知来源的程序是禁⽌使⽤的，所以双击多半打不开，此时需要按 下⾯的步骤进⾏操作。
+
+打开终端,执行如下命令: chmod a+x <你的youdaoTranslateServer可执行文件存放的路径>
+
+第⼀次跑时需要输⼊chmod。以后每次运⾏时，其它步骤不变，只是不必再输该chmod命令。
+
+当然,如果你不想占用自己电脑的资源,有条件也可以用公司办公室的其他Windows电脑启动服务
+
+
 # 服务启动后会运行在9528端口,效果如下图:
 <img width="1922" alt="image" src="https://user-images.githubusercontent.com/84266551/219991183-7ea20190-f77c-45de-a9c5-678bc3f32a2a.png">
 
