@@ -10,7 +10,8 @@ token free unlimited use of deepl, according to the web version of JavaScript en
 
 第⼀次跑时需要输⼊chmod。以后每次运⾏时，其它步骤不变，只是不必再输该chmod命令。
 
-当然,如果你不想占用自己电脑的资源,有条件也可以用公司办公室的其他Windows电脑启动服务
+当然,如果你不想占用自己电脑的资源,有条件也可以用公司办公室的其他Windows电脑启动服务 https://github.com/akl7777777/deepl-free-translate-service/releases/download/v0.0.1/deepl_translate_server_windows_x86_64.exe
+
 
 
 # 服务启动后会运行在9528端口,效果如下图:
